@@ -62,7 +62,7 @@ module.exports = {
   networks: {
     swisstronik: {
       url: "https://json-rpc.testnet.swisstronik.com/",
-      accounts: [`e7e7f23645e80df0d707550da513946ba907446a8cef445217c5d91b39ee5f69`],
+      accounts: [`key`],
     },
   },
   etherscan: {
